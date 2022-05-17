@@ -21,6 +21,8 @@ Attempt #1
 Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classification problems like this and relu are for nonlinear datasets.
 Removed "USE_CASE_Other","AFFILIATION_Other" columns.
 
+![alt text](https://github.com/harryhua2021/Neural_Network_Charity_Analysis/blob/main/images/Attempt_1.png)
+
 Attempt #2
 
 3 Hidden Layers
@@ -28,12 +30,15 @@ Attempt #2
 Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classification problems like this and relu is for nonlinear datasets.
 Removed "USE_CASE_Other","AFFILIATION_Other" columns.
 
+![alt text](https://github.com/harryhua2021/Neural_Network_Charity_Analysis/blob/main/images/Attempt_2.png)
+
 Attempt #3
 
 3 Hidden Layers
 80 neurons(Layer1), 35 neurons(Layer2), 10 neurons (Layer3)
 Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classification problems like this and relu is for nonlinear datasets.
-I went back to the original dataset
+
+![alt text](https://github.com/harryhua2021/Neural_Network_Charity_Analysis/blob/main/images/Attempt_3.png)
 
 
 ## Summary
